@@ -184,6 +184,7 @@ select:focus {
 }
 
 select {
+  background: transparent;
   color: var(--font-color);
   border: none;
   font-size: 18px;
